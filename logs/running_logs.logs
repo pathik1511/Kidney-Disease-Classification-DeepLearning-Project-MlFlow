@@ -241,3 +241,54 @@ zipfile.BadZipFile: File is not a zip file
 [2023-12-26 13:02:26,705: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x:]
+[2023-12-26 13:50:19,657: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-26 13:50:19,683: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-26 13:50:19,686: INFO: common: directory: artifacts created successfully:]
+[2023-12-26 13:50:19,688: INFO: common: directory: artifacts/prepare_base_model created successfully:]
+[2023-12-26 13:50:22,266: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.:]
+[2023-12-29 14:13:46,896: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<:]
+[2023-12-29 14:13:46,946: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-29 14:13:46,985: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-29 14:13:46,986: INFO: common: directory: artifacts created successfully:]
+[2023-12-29 14:13:46,986: INFO: common: directory: artifacts/data_ingestion created successfully:]
+[2023-12-29 14:13:46,987: INFO: data_ingestion: File already exists of size: ~ 56361 KB:]
+[2023-12-29 14:13:48,250: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x:]
+[2023-12-29 14:18:13,889: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<:]
+[2023-12-29 14:18:13,891: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-29 14:18:13,894: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-29 14:18:13,895: INFO: common: directory: artifacts created successfully:]
+[2023-12-29 14:18:13,897: INFO: common: directory: artifacts/data_ingestion created successfully:]
+[2023-12-29 14:18:13,898: INFO: data_ingestion: File already exists of size: ~ 56361 KB:]
+[2023-12-29 14:18:14,521: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x:]
+[2023-12-29 14:20:11,394: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<:]
+[2023-12-29 14:20:11,397: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-29 14:20:11,399: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-29 14:20:11,400: INFO: common: directory: artifacts created successfully:]
+[2023-12-29 14:20:11,401: INFO: common: directory: artifacts/data_ingestion created successfully:]
+[2023-12-29 14:20:11,401: INFO: data_ingestion: File already exists of size: ~ 56361 KB:]
+[2023-12-29 14:20:11,997: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x:]
+[2023-12-29 16:11:44,095: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<:]
+[2023-12-29 16:11:44,124: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-29 16:11:44,155: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-29 16:11:44,180: INFO: common: directory: artifacts created successfully:]
+[2023-12-29 16:11:44,181: INFO: common: directory: artifacts/data_ingestion created successfully:]
+[2023-12-29 16:11:44,182: INFO: data_ingestion: File already exists of size: ~ 56361 KB:]
+[2023-12-29 16:11:45,072: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x:]
+[2023-12-29 16:11:45,073: INFO: main: *******************:]
+[2023-12-29 16:11:45,073: INFO: main: >>>>>> stage Prepare base model started <<<<<<:]
+[2023-12-29 16:11:45,076: INFO: common: yaml file: config\config.yaml loaded successfully:]
+[2023-12-29 16:11:45,078: INFO: common: yaml file: params.yaml loaded successfully:]
+[2023-12-29 16:11:45,079: INFO: common: directory: artifacts created successfully:]
+[2023-12-29 16:11:45,080: INFO: common: directory: artifacts/prepare_base_model created successfully:]
+[2023-12-29 16:11:50,158: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.:]
+[2023-12-29 16:11:52,070: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x:]
