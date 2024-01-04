@@ -19,6 +19,7 @@ class ModelTrainingPipeline:
         training.get_base_model()
         training.train_valid_generator()
         training.train()
+        
 
 
 
