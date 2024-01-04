@@ -78,3 +78,10 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/pathik1511/Kidney-Disease-Classif
 export MLFLOW_TRACKING_USERNAME=pathik1511 
 
 export MLFLOW_TRACKING_PASSWORD=34de716eda698180acbb4aeca7e139a0f2d5874a
+
+
+### DVC cmd
+
+1. dvc init
+2. dvc repro
+3. dvc dag
